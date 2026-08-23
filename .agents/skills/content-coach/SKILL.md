@@ -17,6 +17,10 @@ O radar guarda os dados de quem está cadastrado como **concorrente** — mas vo
 3. Clique em "Coletar agora" — o radar vai buscar seus últimos posts e vídeos
 4. Peça ao LLM: "puxe meus últimos 20 conteúdos da tabela `conteudos` onde o `concorrente_id` for o meu"
 
+O radar guarda o seu perfil na mesma tabela dos concorrentes reais — não existe campo que marque "esse sou eu". Antes do Passo 1, o LLM confirma com você, mostrando nome/handle, qual `concorrente_id` é o seu, para não analisar o conteúdo de um concorrente como se fosse seu.
+
+Se vierem menos de 8-10 peças, o LLM avisa que a amostra é pequena antes de prosseguir e pergunta se você quer seguir mesmo assim ou coletar mais primeiro.
+
 **Opção B — export manual:**
 - Baixe seus posts/vídeos como arquivo de texto, pasta ou link
 - Cole o caminho ou os textos direto na conversa com o LLM
@@ -26,7 +30,7 @@ O radar guarda os dados de quem está cadastrado como **concorrente** — mas vo
 1. **Ler tudo primeiro** — o LLM lê cada peça sem julgar. Anota padrões: como você abre, como estrutura, como fecha, o que repete quando está sem ideia.
 2. **Entrevista** — para cada peça: o que você estava tentando fazer, para quem era, o que você achava que funcionou. O LLM compara a intenção com o que a peça realmente faz.
 3. **Diagnóstico** — os vícios que enfraquecem o seu conteúdo, com 3 exemplos reais tirados do seu material. Nome do vício + as linhas exatas + o que fazer diferente.
-4. **Crédito pelo que funciona** — os movimentos que você deve fazer mais, com exemplos. Importante: para você não se "consertar" e virar outra pessoa.
+4. **Crédito pelo que funciona** — os movimentos que você deve fazer mais, com exemplos. Importante: para você não se "consertar" e virar outra pessoa. Ao apontar o que funciona, o LLM distingue se funciona porque é genuíno e específico da sua voz, ou porque é fórmula comum do nicho de decoração (antes/depois, "5 dicas" etc.) que qualquer conta replica — mesmo que a métrica seja boa, sinaliza quando o crédito recai sobre um formato clichê.
 5. **Uma única mudança** — o ajuste que levanta tudo que você fizer depois, mais como praticar nos 3 próximos conteúdos.
 
 ## Regras
@@ -35,6 +39,7 @@ O radar guarda os dados de quem está cadastrado como **concorrente** — mas vo
 - Se algo é bom, ele diz por quê, para você repetir de propósito.
 - Sem invenção: cada achado precisa ter um exemplo real do seu material.
 - Repita a cada 20 peças novas e compare com o relatório anterior.
+- Se você trouxer só os posts que mais bombaram (amostra pré-filtrada), o LLM avisa que a amostra é enviesada antes de diagnosticar — o coaching não existe pra confirmar que "o que performou = o que deve continuar" sem checar se não é só fórmula do algoritmo.
 
 ## Referência
 

@@ -16,14 +16,15 @@ Use antes de publicar qualquer página, email, legenda ou anúncio. Palavras dif
 - Legendas de posts e anúncios
 - Bio e descrição de perfis
 
-## Workflow (4 passos + gate permanente)
+## Workflow (4 passos + checklist reaplicável)
 
+0. **Se nada foi colado ou apontado** — o LLM pergunta qual peça revisar. Nunca infere ou inventa o texto a partir do contexto da conversa.
 1. **Ler e classificar** — o LLM lê cada peça e dá uma nota de nível de leitura. Monta a lista: cada peça, sua nota, piores primeiro.
-2. **Reescrever o que passou da linha** — tudo acima da 5ª série vira texto simples. A oferta, as afirmações e a sua voz ficam; o jargão, as frases longas e as palavras "chiques" saem. Mostrar antes e depois de cada peça.
+2. **Reescrever o que passou da linha** — tudo acima da 5ª série vira texto simples. A oferta, as afirmações e a sua voz ficam; o jargão, as frases longas e as palavras "chiques" que só confundem saem. Palavra "chique" que sinaliza expertise ou justifica preço (vocabulário técnico que mostra autoridade) não é trocada por trocar — preserva-se com uma explicação simples ao lado, em vez de nivelar por baixo. Mostrar antes e depois de cada peça.
 3. **Onde não dá para simplificar** — se uma frase precisa ser técnica, coloca a versão em palavras simples logo ao lado, em vez de "simplificar e perder o significado".
-4. **Reconfirmar** — relê o funil reescrito e confirma que tudo passou.
+4. **Reconfirmar** — relê o funil reescrito e confirma que tudo passou. Simples não é a mesma coisa que original: mesmo que a nota de leitura esteja ok (inclusive um texto que já chegou simples, sem precisar de reescrita), o LLM sinaliza se a peça cai em bordão comum do nicho de decoração (ex: "lar cheio de alma", "cantinho especial", "comenta aqui embaixo") — clareza não é desculpa para clichê.
 
-**Gate permanente:** instala uma verificação rápida para usar em cada peça nova antes de publicar. O LLM avalia a nota, sinaliza as linhas que passaram do limite e sugere a reescrita. Nada sai sem passar.
+**Checklist reaplicável:** este é um checklist para rodar em cada peça nova antes de publicar — não um bloqueio automático. Ele só entra em ação quando esta skill for chamada de novo, ou quando outra skill que produz copy final (`content-strategist-decor`, `workflow-producao-conteudo`, `arquivo-para-conteudo`) incluir esse passo no próprio fluxo. Se você quiser um lembrete automático de verdade a cada nova peça, isso é configuração de automação (hooks) — peça à skill `update-config`.
 
 ## Regras
 
