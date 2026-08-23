@@ -17,6 +17,10 @@ Use quando a aluna quiser entender custos, disparar uma coleta manual ou diagnos
 
 O custo de cada coleta fica registrado em `dados.custo_usd` no banco — você pode ver no histórico.
 
+> Preço de API muda. A tabela acima é uma referência, não um contrato — se
+> desconfiar que o custo mudou, some `custo_usd` das últimas coletas no
+> histórico e compare.
+
 ## Quando re-coletar
 
 - **Automático (recomendado):** o cron roda toda segunda às 08h (horário de Brasília) via Vercel. Não precisa fazer nada — só configurar o `CRON_SECRET` uma vez (veja o SETUP.md).

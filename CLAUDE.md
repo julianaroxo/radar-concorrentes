@@ -20,13 +20,21 @@ de concorrentes e guarda cada coleta como snapshot — histórico permanente.
 | `app/concorrente/[id]/page.tsx` | Detalhe: gráfico temporal SVG, "O que mudou", top posts, anúncios |
 | `app/tendencias/page.tsx` | Ranking Δ seguidores/semana, acelerando/desacelerando |
 | `app/anuncios/page.tsx` | Criativos ativos agregados de todos os concorrentes |
+| `app/ideias/page.tsx` | Vídeos/posts outlier (ratio views ou engajamento / seguidores) — pauta validada pelo público |
+| `app/posicionamento/page.tsx` | Análise de espaço em branco via IA (Fase 6, exige `ANTHROPIC_API_KEY`) |
+| `app/metricas/page.tsx` | Comparativo de métricas entre snapshots + formato campeão por concorrente |
 | `app/setup/page.tsx` | Configurações: chaves (status), CRUD concorrentes, coleta com log |
+| `app/setup/wizard/page.tsx` | Wizard guiado de primeira configuração (testa cada chave antes de avançar) |
 | `app/layout.tsx` | Shell: TopBar + Sidebar fixos (tema claro soft-shadows) |
 | `components/` | TopBar, Sidebar, ColetarAgora, ResumoStrip, CardConcorrente, Barra, Sparkline, Chips, GraficoLinha, OQueMudou, SeletorPeriodo |
 | `app/api/concorrentes` | GET/POST/DELETE na tabela `concorrentes` |
 | `app/api/coletar` | POST {id} — coleta 1 concorrente (4 fontes em paralelo), grava snapshot |
 | `app/api/cron/coletar` | GET — coleta todos (Vercel Cron semanal, exige `CRON_SECRET`) |
 | `app/api/estado` | Presença das chaves (booleano) + última coleta |
+| `app/api/validar-chave` | Testa uma chave (Supabase/AnyAPI/Anthropic) sob demanda — usado pelo wizard |
+| `app/api/conteudo` | POST — garante um item de `conteudos` (post IG ou vídeo YT) a partir do último snapshot |
+| `app/api/posicionamento` | GET/POST — lê ou gera a análise de posicionamento (Fase 6) |
+| `app/api/analise-hook` | POST — gera análise de hooks sob demanda para `/ideias` (Fase 6) |
 | `lib/coleta.ts` | Lógica de coleta (port testado de `_v1-local/coletar.mjs`) |
 | `lib/ui.ts` | fmt pt-BR, CORES, tempoRelativo, filtro de período |
 | `supabase/schema.sql` | Tabelas `concorrentes` e `snapshots` (RLS on, acesso via service role) |

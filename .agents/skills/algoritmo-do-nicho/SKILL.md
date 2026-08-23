@@ -11,7 +11,7 @@ Use quando quiser parar de postar no escuro. O LLM pesquisa como o algoritmo tra
 
 ## Pré-preenchimento automático via radar
 
-Se você cadastrou seu próprio perfil no radar, o LLM pode puxar o número de seguidores do último snapshot para ajustar os conselhos ao seu estágio de conta.
+Se você cadastrou seu próprio perfil no radar, o LLM pode puxar o número de seguidores do último snapshot para ajustar os conselhos ao seu estágio de conta — requer o Supabase MCP conectado ao mesmo projeto do Radar (credenciais de `radar-setup`).
 
 Peça: "use o último snapshot do meu perfil na tabela `snapshots` para pegar meu número de seguidores atual."
 

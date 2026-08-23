@@ -11,15 +11,8 @@ Use quando quiser olhar para o seu próprio conteúdo com olhos de fora: entende
 
 O radar guarda os dados de quem está cadastrado como **concorrente** — mas você pode cadastrar o seu próprio perfil. Assim o app coleta seus posts, legendas e transcripts da mesma forma.
 
-**Opção A — cadastrar seu próprio perfil no radar:**
-1. Abra `/setup` → clique em "Adicionar concorrente"
-2. Coloque seu próprio usuário do Instagram e/ou canal do YouTube
-3. Clique em "Coletar agora" — o radar vai buscar seus últimos posts e vídeos
-4. Peça ao LLM: "puxe meus últimos 20 conteúdos da tabela `conteudos` onde o `concorrente_id` for o meu"
-
-**Opção B — export manual:**
-- Baixe seus posts/vídeos como arquivo de texto, pasta ou link
-- Cole o caminho ou os textos direto na conversa com o LLM
+Passo a passo (cadastrar perfil próprio ou exportar manualmente) em
+`../_shared/puxar-material.md`.
 
 ## Workflow (5 passos)
 
@@ -35,6 +28,11 @@ O radar guarda os dados de quem está cadastrado como **concorrente** — mas vo
 - Se algo é bom, ele diz por quê, para você repetir de propósito.
 - Sem invenção: cada achado precisa ter um exemplo real do seu material.
 - Repita a cada 20 peças novas e compare com o relatório anterior.
+
+## Próximo passo
+
+Antes de publicar qualquer peça reescrita a partir daqui, passe pelo
+`clarity-gate` — ele garante que o texto ficou simples além de melhor.
 
 ## Referência
 

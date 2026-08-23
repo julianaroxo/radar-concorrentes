@@ -55,3 +55,9 @@ Se a chave `ANTHROPIC_API_KEY` não estiver configurada, a página mostra as ins
    - Uma lacuna de posicionamento que você pode ocupar
 
 Com esses 3 pontos você já tem pauta para a semana.
+
+## Próximo passo
+
+Para transformar a pauta em conteúdo, use `content-coach` (o que já funciona
+no seu material) ou `arquivo-para-conteudo` (remontar o arquivo em famílias
+novas) — e feche com `clarity-gate` antes de publicar.

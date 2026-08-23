@@ -9,18 +9,10 @@ Use quando quiser aproveitar tudo que já publicou para gerar conteúdo novo sem
 
 ## Como puxar o seu material
 
-O radar já coleta posts, legendas e transcripts de quem está cadastrado como concorrente. Cadastre seu próprio perfil e o app faz a coleta automaticamente.
+O radar já coleta posts, legendas e transcripts de quem está cadastrado como concorrente. Cadastre seu próprio perfil e o app faz a coleta automaticamente — o radar já coleta o que é público, sem precisar de ferramenta externa.
 
-**Opção A — usar o radar:**
-1. Abra `/setup` → adicione seu perfil (Instagram e/ou YouTube)
-2. Clique em "Coletar agora"
-3. Peça ao LLM: "liste meus conteúdos da tabela `conteudos` com `titulo_ou_legenda` e `transcript`, ordenados por data"
-
-O radar já coleta o que é público — sem precisar de ferramenta externa.
-
-**Opção B — export manual:**
-- Exporte seus posts/vídeos como arquivo de texto ou pasta
-- Cole na conversa com o LLM
+Passo a passo (cadastrar perfil próprio ou exportar manualmente) em
+`../_shared/puxar-material.md`.
 
 ## Workflow (5 passos)
 
@@ -35,6 +27,11 @@ O radar já coleta o que é público — sem precisar de ferramenta externa.
 - Sua voz, suas posições. Se uma peça antiga contradiz o que você diz hoje, o LLM sinaliza em vez de modernizar sem avisar.
 - Nada inventado: cada peça nova precisa rastrear algo que você realmente fez.
 - Leia o mapa de temas mesmo que não remonte nada — ele mostra do que sua marca é realmente feita.
+
+## Próximo passo
+
+Antes de publicar qualquer peça remontada da família de conteúdo, passe pelo
+`clarity-gate` — ele é o gate final antes de qualquer coisa ir ao ar.
 
 ## Referência
 
