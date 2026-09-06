@@ -45,13 +45,13 @@ Se a chave `ANTHROPIC_API_KEY` não estiver configurada, a página mostra as ins
 
 ## Roteiro do resumo semanal (15 min toda segunda)
 
-1. Abra `/tendencias` → note quem cresceu e quem encolheu
-2. Abra `/ideias` → veja os 3 temas com maior ratio esta semana
-3. Para cada tema interessante, clique para abrir o vídeo e leia o transcript (se disponível)
-4. Abra o detalhe dos 2 concorrentes que mais se movimentaram → leia "O que mudou"
+1. `/tendencias` → veja quem cresceu e quem encolheu
+2. `/ideias` → pegue os 3 temas de maior ratio da semana
+3. Abra cada tema que interessar e leia o transcript, se houver
+4. Nos 2 concorrentes que mais se mexeram, leia "O que mudou"
 5. Anote 3 aprendizados:
    - Um tema a testar no seu canal
-   - Um movimento dos concorrentes para ficar de olho
-   - Uma lacuna de posicionamento que você pode ocupar
+   - Um movimento para ficar de olho
+   - Uma lacuna de posicionamento para ocupar
 
 Com esses 3 pontos você já tem pauta para a semana.
