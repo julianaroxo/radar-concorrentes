@@ -12,6 +12,8 @@ e cada coleta vira um snapshot — com o tempo você enxerga a evolução dos co
 
 1. Entre em [supabase.com](https://supabase.com) → **New project** (nome: `radar-concorrentes`)
 2. Menu lateral → **SQL Editor** → cole o conteúdo de `supabase/schema.sql` → **Run**
+   (cria as 4 tabelas: `concorrentes`, `snapshots`, `conteudos`, `analises`; o bucket
+   de imagens `thumbs` o app cria sozinho na primeira coleta)
 3. Menu lateral → **Project Settings → API** e copie:
    - **Project URL** → vai virar `NEXT_PUBLIC_SUPABASE_URL`
    - **service_role key** (secret) → vai virar `SUPABASE_SERVICE_ROLE_KEY`
@@ -65,6 +67,17 @@ segunda-feira às 08:00 (horário de Brasília), chamando `GET /api/cron/coletar
 - **Analisar:** dashboard mostra deltas (▲▼) comparando com a coleta anterior
 - **Adicionar concorrente:** `/setup`, formulário — sem editar arquivo nenhum
 
+Onde olhar depois da coleta:
+
+| Página | O que responde |
+|--------|----------------|
+| 🎯 Visão Geral | como cada concorrente se moveu desde a última coleta |
+| 📈 Tendências | quem está acelerando e quem está desacelerando |
+| 💡 Ideias | quais vídeos/posts performaram muito acima da audiência do canal |
+| 🧭 Posicionamento | o que todo mundo promete e o que ninguém ocupa *(precisa de `ANTHROPIC_API_KEY`)* |
+| 📊 Métricas | tabela comparando todos lado a lado |
+| 📢 Anúncios | criativos ativos na Meta Ad Library |
+
 ## Problemas comuns
 
 | Sintoma | Causa provável |
@@ -73,3 +86,5 @@ segunda-feira às 08:00 (horário de Brasília), chamando `GET /api/cron/coletar
 | Coleta com `instagram ✘` | AnyAPI instável (tente de novo — já tem retry) ou sem crédito |
 | `ads: pulado` | Concorrente sem página no Facebook / campo vazio |
 | Dashboard vazio | Nenhuma coleta ainda — dispare no /setup |
+| `/posicionamento` pede chave | `ANTHROPIC_API_KEY` ausente — é opcional, o resto do app funciona sem |
+| `/ideias` vazio | O filtro só varre os canais cadastrados; precisa de inscritos + vídeos coletados |
