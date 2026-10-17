@@ -1,21 +1,38 @@
-# rehabitar.nl — Landing "Rehabitar em Camadas" (v2)
+# rehabitar.nl — Landing "Rehabitar em Camadas" (v3)
 
 > Copy final, na ordem da página. Pronta para colar no editor do site.
 > Itens marcados **[CONFIRMAR]** dependem de informação que não está no briefing.
-> Frase-guia da página inteira: **Direção primeiro. Compra depois.**
+>
+> **A página vende uma coisa só:** direção para decidir melhor antes de gastar mais.
+> **Frase-guia:** A casa não precisa ficar pronta agora. Mas cada escolha precisa ter direção.
 
-**Hierarquia de nomes (usar só estes na página):**
+## Hierarquia de nomes
 
-| Papel | Nome |
-|---|---|
-| Produto da página | Rehabitar em Camadas |
-| Condição atual | Entrada Fundadora |
-| Entrega final | Mapa Rehabitar Essencial |
-| Continuidade | Casa em Movimento |
-| Marca guarda-chuva | Clube Rehabitar (só no rodapé/FAQ) |
-| Premium | JCHD |
+| Função | Nome | Onde aparece |
+|---|---|---|
+| Marca principal | Rehabitar | Logo, rodapé, contexto geral |
+| Produto vendido | Rehabitar em Camadas | Página inteira |
+| Condição comercial | Entrada Fundadora | Hero, preço, CTA |
+| Entrega final | Mapa de Próximas Decisões | Método e entregáveis |
+| Continuidade | Clube Rehabitar | Só FAQ e rodapé |
+| Serviço premium | JCHD | Bloco comparativo curto + FAQ |
 
-Saem da página: "Ponto de Partida", "Flora" e "canto" como palavra principal.
+Saem da página: "Ponto de Partida", "Flora", "Casa em Movimento" **[CONFIRMAR: Casa em Movimento foi substituída pelo Clube Rehabitar como continuidade de €49/mês?]** e "canto" como palavra principal.
+
+**Uso de "camada":** só em "Rehabitar em Camadas" e "As 4 Camadas do Método".
+Proibido: "próximas camadas", "nova camada", "camada seguinte", "camadas futuras".
+No lugar: próximas decisões, próximos passos, ordem de prioridade, plano de ação.
+
+## Hierarquia de mensagem (cada uma no seu bloco)
+
+| Papel | Mensagem | Bloco |
+|---|---|---|
+| Principal | Direção profissional para transformar sua casa em camadas… | Hero |
+| Identificação | Para quem quer uma casa mais coerente, mas sabe que a vida real acontece por etapas. | Hero |
+| Dor | Na Holanda, o móvel errado não custa só o preço da etiqueta. | 2 |
+| Comercial | Mais casa por euro gasto. | 4 |
+| Conteúdo | O print é lindo. Mas e na sua casa? | 5 |
+| Fechamento | A casa não precisa ficar pronta agora. Mas cada escolha precisa ter direção. | 15 |
 
 ---
 
@@ -25,15 +42,17 @@ Saem da página: "Ponto de Partida", "Flora" e "canto" como palavra principal.
 
 # Direção profissional para transformar sua casa em camadas, com clareza, critério e vida real.
 
-Para quem quer uma casa mais coerente, mas sabe que a vida real acontece por etapas. Em 4 encontros, você escolhe um ambiente da sua casa, entende o que está travando e sai com um mapa de decisões para ter mais casa por euro gasto.
+Para quem quer uma casa mais coerente, mas sabe que a vida real acontece por etapas.
+
+Em 4 encontros, você escolhe um ambiente, entende o que está travando e sai com um Mapa de Próximas Decisões.
 
 **[ Quero minha Entrada Fundadora ]**
 
-4 encontros ao vivo · 1 ambiente foco · Mapa Rehabitar Essencial · Entrada Fundadora €167 · até 15 vagas
+4 encontros · 1 ambiente foco · Mapa de Próximas Decisões · Valor fundador €167 · até 15 vagas
 
 ---
 
-## 2. Dor — o custo do móvel errado
+## 2. Dor
 
 ## Na Holanda, o móvel errado não custa só o preço da etiqueta.
 
@@ -41,15 +60,14 @@ Custa entrega.
 Custa montagem.
 Custa tempo.
 Custa tentativa de revenda.
-Custa uma nova pesquisa.
-Custa a sensação de que você gastou, mas a casa continuou sem fazer sentido.
+Custa energia.
+E custa a sensação de que você gastou, mas a casa continuou sem fazer sentido.
 
-E quase sempre o erro não começa na compra.
-**Começa antes: na falta de direção.**
+**O problema nem sempre está na peça. Muitas vezes está na ordem da decisão.**
 
 ---
 
-## 3. Identificação — sinais de decisões soltas
+## 3. Identificação
 
 Você salva referências, compara lojas, pergunta em grupos, pensa em esperar o próximo orçamento… mas continua sem saber o que vem primeiro.
 
@@ -64,27 +82,20 @@ Você salva referências, compara lojas, pergunta em grupos, pensa em esperar o 
 
 ## Mais casa por euro gasto não é comprar barato.
 
-É saber onde vale investir.
-Onde dá para ajustar.
-Onde é melhor esperar.
-O que não precisa ser comprado agora.
-E qual decisão realmente muda o ambiente.
-
-Uma casa mais coerente não nasce de várias compras bonitas.
-**Nasce quando cada escolha conversa com a próxima.**
+É saber o que manter.
+O que ajustar.
+O que comprar.
+O que evitar.
+O que deixar para depois.
+E qual decisão realmente muda o ambiente agora.
 
 ---
 
-## 5. Conceito — o print
+## 5. Referência
 
 ## O print é lindo. Mas e na sua casa?
 
-A referência não mostra sua planta.
-Não mostra sua luz.
-Não mostra suas medidas.
-Não mostra seus móveis atuais.
-Não mostra sua rotina.
-Não mostra o que você já comprou e precisa fazer funcionar.
+A referência não mostra sua planta, sua luz, suas medidas, seus móveis atuais, sua rotina e o que você já tentou resolver.
 
 No Rehabitar em Camadas, você aprende a filtrar referências antes de transformar desejo em compra.
 
@@ -92,44 +103,46 @@ No Rehabitar em Camadas, você aprende a filtrar referências antes de transform
 
 ---
 
-## 6. Produto — o que é
+## 6. O que é
 
 ## O que é o Rehabitar em Camadas
 
-4 encontros ao vivo, em grupo e em português, para destravar um ambiente da sua casa e transformar decisões soltas em um mapa claro do que fazer — e em que ordem.
+4 encontros ao vivo, em grupo e em português, para destravar um ambiente da sua casa e organizar o que fazer — e em que ordem.
 
 Não é inspiração. Não é grupo de opinião. É direção profissional, com repertório local, para você decidir antes de comprar.
 
 ---
 
-## 7. Método — As 4 Camadas da Decisão
+## 7. Método
 
-**Camada 1 · O Real**
-Você olha para o ambiente como ele está hoje: o que incomoda, o que funciona, o que pesa, o que falta e o que está sendo decidido fora de ordem.
+## As 4 Camadas do Método
 
-**Camada 2 · A Direção**
-Você define a sensação desejada, filtra referências e entende qual caminho faz sentido para a casa que você tem — não para a casa do print.
+**1. Camada do Real**
+Você entende o que está travando o ambiente hoje.
 
-**Camada 3 · A Decisão**
-Você organiza o que manter, ajustar, comprar, evitar e adiar. Aqui entra o mais casa por euro gasto.
+**2. Camada da Direção**
+Você define o caminho visual e funcional que faz sentido para a sua casa.
 
-**Camada 4 · O Mapa**
-Você sai com o Mapa Rehabitar Essencial: um plano simples das próximas decisões para transformar o ambiente por etapas.
+**3. Camada da Decisão**
+Você organiza o que manter, ajustar, comprar, evitar e deixar para depois.
+
+**4. Camada do Mapa**
+Você sai com seu Mapa de Próximas Decisões.
 
 ---
 
-## 8. Entrega final — Mapa Rehabitar Essencial
+## 8. Entrega final
 
 ## Você não sai com mais referências. Sai com um mapa.
 
-O Mapa Rehabitar Essencial reúne, para o seu ambiente foco:
+O Mapa de Próximas Decisões reúne, para o seu ambiente foco:
 
 - o que manter
 - o que ajustar
 - o que comprar (e o que não comprar agora)
 - o que evitar
 - o que pode esperar
-- a ordem das próximas decisões
+- a ordem de prioridade das próximas decisões
 
 **[CONFIRMAR: formato do mapa — PDF? template Notion? preenchido pela aluna com correção?]**
 
@@ -144,29 +157,27 @@ O Mapa Rehabitar Essencial reúne, para o seu ambiente foco:
 - 4 encontros ao vivo em grupo
 - 1 ambiente foco
 - Exercícios práticos semanais
-- Mapa Rehabitar Essencial
+- Mapa de Próximas Decisões
 - Grupo de apoio da turma
 - Repertório local para decidir melhor
-- Acesso à Casa em Movimento até 06/03
-
-Depois de 06/03, a continuidade na Casa em Movimento é opcional, por €49/mês.
+- Acesso ao Clube Rehabitar até 06/03 **[CONFIRMAR nome da continuidade]**
 
 **[ Quero minha Entrada Fundadora ]**
 
 ---
 
-## 10. O que não está incluído
+## 10. O que não é
 
-## O Rehabitar em Camadas não é:
+## O que o Rehabitar em Camadas não é
 
-- Projeto completo
-- Consultoria individual
-- Lista de compras personalizada
-- Layout técnico
-- 3D
-- Acompanhamento de obra
-- Curadoria individual de móveis
-- Atendimento ilimitado no WhatsApp
+Não é projeto completo.
+Não é consultoria individual.
+Não é lista de compras personalizada.
+Não é 3D.
+Não é acompanhamento de obra.
+Não é atendimento ilimitado.
+
+**É uma direção profissional em grupo para você organizar prioridades e tomar melhores decisões antes de investir no ambiente.**
 
 ---
 
@@ -186,7 +197,7 @@ Depois de 06/03, a continuidade na Casa em Movimento é opcional, por €49/mês
 
 ## 12. Rehabitar ou JCHD?
 
-| Rehabitar em Camadas | JCHD — Juliana Consoline Home Design |
+| Rehabitar em Camadas | JCHD |
 |---|---|
 | Processo guiado em grupo | Projeto individual |
 | Você decide, com método e critério | A Juliana entra no seu caso |
@@ -194,19 +205,19 @@ Depois de 06/03, a continuidade na Casa em Movimento é opcional, por €49/mês
 | €167 (Entrada Fundadora) | Sob proposta |
 
 Se você precisa que a Juliana entre individualmente no seu caso, o caminho é a JCHD.
-Se você quer um processo guiado para ganhar clareza, ordem e critério antes da próxima decisão, o caminho é o Rehabitar.
+Se você quer um processo guiado para ganhar clareza, ordem e critério antes da próxima decisão, o caminho é o Rehabitar em Camadas.
 
-**[ Conhecer a JCHD ]** (link secundário, discreto)
+[ Conhecer a JCHD ] (link secundário, discreto)
 
 ---
 
-## 13. Preço fundador e garantia
+## 13. Investimento
 
-## Entrada Fundadora: €167
+## Entrada Fundadora
 
-Valor exclusivo desta turma, com até 15 vagas. Nas próximas turmas, o valor muda. **[CONFIRMAR: valor das próximas turmas — só cite se for real]**
+A primeira turma do Rehabitar em Camadas terá valor fundador de **€167**. Essa condição existe por ser a primeira experiência do método neste formato. Nas próximas turmas, o valor poderá ser reajustado.
 
-**[CONFIRMAR: existe garantia? Se sim, regra exata (ex.: "se após o 1º encontro você sentir que não é para você, devolvemos 100%"). Se não existir, apagar a palavra "garantia" do título.]**
+**Até 15 vagas.**
 
 **[ Quero minha Entrada Fundadora ]**
 
@@ -215,23 +226,25 @@ Valor exclusivo desta turma, com até 15 vagas. Nas próximas turmas, o valor mu
 ## 14. FAQ
 
 **Preciso estar com a casa pronta ou mobiliada?**
-Não. Você trabalha com o ambiente como ele está hoje — é exatamente esse o ponto de partida da Camada 1.
+Não. Você trabalha com o ambiente como ele está hoje — é exatamente esse o ponto de partida da Camada do Real.
 
 **Posso escolher qualquer ambiente?**
 Sim: sala, quarto, home office, varanda, entrada. Um ambiente foco por turma, para você ir até o fim em vez de começar tudo.
 
-**E se eu não puder participar ao vivo?** **[CONFIRMAR: tem gravação?]**
+**E se eu não puder participar ao vivo?**
+**[CONFIRMAR: tem gravação?]**
 
 **Funciona para quem mora em apartamento alugado?**
-Sim. Grande parte do método é decidir o que manter, ajustar e adiar — o que é ainda mais importante quando você não pode mexer em tudo.
+Sim. Grande parte do método é decidir o que manter, ajustar e deixar para depois — o que é ainda mais importante quando você não pode mexer em tudo.
 
 **Vou receber lista de compras?**
-Não personalizada. Você sai com critério e com o Mapa para decidir suas compras com segurança. Lista personalizada é serviço da JCHD.
+Não personalizada. Você sai com critério e com o Mapa de Próximas Decisões para comprar com segurança. Lista personalizada é serviço da JCHD.
 
-**O que acontece depois das 4 semanas?**
-Você segue na Casa em Movimento até 06/03, sem custo extra. Depois disso, a continuidade é opcional, por €49/mês.
+**O que acontece depois dos 4 encontros?**
+Você segue no Clube Rehabitar até 06/03, sem custo extra. Depois disso, a continuidade é opcional, por €49/mês.
 
-**Quando começa?** **[CONFIRMAR: datas e horários dos 4 encontros (horário NL)]**
+**Quando começa?**
+**[CONFIRMAR: datas e horários dos 4 encontros (horário NL)]**
 
 ---
 
@@ -239,8 +252,6 @@ Você segue na Casa em Movimento até 06/03, sem custo extra. Depois disso, a co
 
 Você não precisa resolver a casa inteira agora. Mas também não precisa continuar salvando prints, abrindo abas e comprando peças soltas para sentir que avançou.
 
-**Comece por um ambiente. Com direção, critério e mais casa por euro gasto.**
+## A casa não precisa ficar pronta agora. Mas cada escolha precisa ter direção.
 
 **[ Quero minha Entrada Fundadora ]**
-
-*Direção primeiro. Compra depois.*
